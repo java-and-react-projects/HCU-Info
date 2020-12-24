@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/HCU-Info/static/css/main.4818bcab.chunk.css",
+    "main.js": "/HCU-Info/static/js/main.014be66e.chunk.js",
+    "main.js.map": "/HCU-Info/static/js/main.014be66e.chunk.js.map",
+    "runtime-main.js": "/HCU-Info/static/js/runtime-main.157de908.js",
+    "runtime-main.js.map": "/HCU-Info/static/js/runtime-main.157de908.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/HCU-Info/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7a09b9fe.chunk.js": "/HCU-Info/static/js/2.7a09b9fe.chunk.js",
+    "static/js/2.7a09b9fe.chunk.js.map": "/HCU-Info/static/js/2.7a09b9fe.chunk.js.map",
+    "index.html": "/HCU-Info/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/HCU-Info/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4818bcab.chunk.css.map": "/HCU-Info/static/css/main.4818bcab.chunk.css.map",
+    "static/js/2.7a09b9fe.chunk.js.LICENSE.txt": "/HCU-Info/static/js/2.7a09b9fe.chunk.js.LICENSE.txt",
+    "static/media/IGM.29264de4.jpg": "/HCU-Info/static/media/IGM.29264de4.jpg",
+    "static/media/hcu.b90e1866.jpg": "/HCU-Info/static/media/hcu.b90e1866.jpg",
+    "static/media/hcu1.b3e7ebb0.jpg": "/HCU-Info/static/media/hcu1.b3e7ebb0.jpg",
+    "static/media/mba.93ea43f2.png": "/HCU-Info/static/media/mba.93ea43f2.png",
+    "static/media/research.f458dae5.jpg": "/HCU-Info/static/media/research.f458dae5.jpg",
+    "static/media/scis.d579bb4d.jpeg": "/HCU-Info/static/media/scis.d579bb4d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.157de908.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7a09b9fe.chunk.js",
+    "static/css/main.4818bcab.chunk.css",
+    "static/js/main.014be66e.chunk.js"
+  ]
+}
